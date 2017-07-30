@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1501443528 source:/home/sirineo/Documentos/Siri/Edir/intproglista/src/ex2/main.c
+	<stdio.h>
+	<stdlib.h>
+
